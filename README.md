@@ -82,7 +82,7 @@ Trained multiple machine learning models:
 ## 💾 Model Deployment
 - Saved model using `joblib`
 - Built a simple UI using Streamlit for predictions
-
+https://churnprediction-app0310.streamlit.app/
 ---
 
 ## 📌 How to Run
